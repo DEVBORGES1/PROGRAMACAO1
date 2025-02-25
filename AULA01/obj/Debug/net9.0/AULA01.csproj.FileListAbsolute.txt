@@ -96,3 +96,4 @@ C:\Users\403392\Desktop\PROG1\AULA01\AULA01\obj\Debug\net9.0\refint\AULA01.dll
 C:\Users\403392\Desktop\PROG1\AULA01\AULA01\obj\Debug\net9.0\AULA01.pdb
 C:\Users\403392\Desktop\PROG1\AULA01\AULA01\obj\Debug\net9.0\AULA01.genruntimeconfig.cache
 C:\Users\403392\Desktop\PROG1\AULA01\AULA01\obj\Debug\net9.0\ref\AULA01.dll
+C:\Users\403392\Desktop\PROG1\AULA01\AULA01\obj\Debug\net9.0\AULA01.sourcelink.json
